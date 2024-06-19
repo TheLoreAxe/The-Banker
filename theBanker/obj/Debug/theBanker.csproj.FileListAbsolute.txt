@@ -1,0 +1,30 @@
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\bin\Debug\theBanker.exe.config
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\bin\Debug\theBanker.exe
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\bin\Debug\theBanker.pdb
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.csprojAssemblyReference.cache
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\MainWindow.g.cs
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\App.g.cs
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker_MarkupCompile.cache
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker_MarkupCompile.lref
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\MainWindow.baml
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.g.resources
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.Properties.Resources.resources
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.csproj.GenerateResource.cache
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.csproj.CoreCompileInputs.cache
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.exe
+C:\Users\mjste\OneDrive\College Notes\8th Semester - Spring 2021\dotNET CS-364\theBanker\obj\Debug\theBanker.pdb
+C:\Users\mjste\Desktop\theBanker\bin\Debug\theBanker.exe.config
+C:\Users\mjste\Desktop\theBanker\bin\Debug\theBanker.exe
+C:\Users\mjste\Desktop\theBanker\bin\Debug\theBanker.pdb
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.csprojAssemblyReference.cache
+C:\Users\mjste\Desktop\theBanker\obj\Debug\MainWindow.g.cs
+C:\Users\mjste\Desktop\theBanker\obj\Debug\App.g.cs
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker_MarkupCompile.cache
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker_MarkupCompile.lref
+C:\Users\mjste\Desktop\theBanker\obj\Debug\MainWindow.baml
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.g.resources
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.Properties.Resources.resources
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.csproj.GenerateResource.cache
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.csproj.CoreCompileInputs.cache
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.exe
+C:\Users\mjste\Desktop\theBanker\obj\Debug\theBanker.pdb
